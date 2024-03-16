@@ -62,4 +62,4 @@ cddd	c	d	d	d
 dddd	d	d	d	d
 ```
 
-In this case we can count the number of rows present and notice that with a tuple of 4 elements we have a cardinality of 4.
+In this case we can count the number of rows present and notice that with for a tuple of 4 elements we have a cardinality of 35.
